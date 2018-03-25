@@ -1,22 +1,22 @@
 # Site settings
-title: Your Blog
+title: Zheng Blog
 SEOTitle: 你的博客 | Your Blog
 header-img: img/home-bg.jpg
-email: huxpro@gmail.com
-description: ""
+email: zhengb06science@gmail.com
+description: "纵死侠骨香，不惭世上英"
 keyword: ""
-#url: "http://zhengb087.github.com/Zheng-Blog/"              # your host, for absolute URL
+url: "zhengb087.github.io/Zheng-Blog/"              # your host, for absolute URL
 baseurl: "/Zheng-Blog"         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
 # SNS settings
 RSS: false
-weibo_username:     huxpro
-zhihu_username:     huxpro
-github_username:    huxpro
+#weibo_username:     huxpro
+zhihu_username:     zhengb087
+github_username:    zhengb087
 #twitter_username:  huxpro
-facebook_username:  huxpro
+#facebook_username:  huxpro
 
 
 
