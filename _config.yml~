@@ -1,6 +1,6 @@
 # Site settings
 title: Zheng Blog
-SEOTitle: 你的博客 | Your Blog
+SEOTitle: 郑波的博客 | Zheng Blog
 header-img: img/home-bg.jpg
 email: zhengb06science@gmail.com
 description: "纵死侠骨香，不惭世上英"
@@ -12,11 +12,11 @@ baseurl: "/Zheng-Blog"         # for example, '/blog' if your blog hosted on 'ho
 
 # SNS settings
 RSS: false
-weibo_username:     huxpro
-zhihu_username:     huxpro
-github_username:    huxpro
+#weibo_username:     huxpro
+zhihu_username:     zhengb087
+github_username:    zhengb087
 #twitter_username:  huxpro
-facebook_username:  huxpro
+#facebook_username:  huxpro
 
 
 
@@ -82,19 +82,19 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 # Friends
 friends: [
     {
-        title: "Hux Blog",
-        href: "http://huangxuan.me"
+        title: "经济观察",
+        href: "http://www.eeo.com.cn/"
     },{
-        title: "Foo",
-        href: "#"
+        title: "TED",
+        href: "https://www.ted.com/"
     },{
-        title: "Bar",
-        href: "#"
+        title: "搜韵",
+        href: "https://sou-yun.com/"
     },{
-        title: "Example Friends",
-        href: "#"
+        title: "米塞斯学院",
+        href: "mises.org"
     },{
-        title: "It helps SEO",
-        href: "#"
+        title: "Pexels",
+        href: "https://www.pexels.com/"
     }
 ]
