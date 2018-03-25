@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: zhengb06science@gmail.com
 description: "纵死侠骨香，不惭世上英"
 keyword: ""
-url: "github.com/zhengb087"              # your host, for absolute URL
+url: "http://github.com/zhengb087"              # your host, for absolute URL
 baseurl: "/Zheng-Blog"         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
@@ -69,7 +69,7 @@ kramdown:
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "纵死侠骨香，不惭世上英"
-sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /tree/gh-pages/img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
