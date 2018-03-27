@@ -69,7 +69,7 @@ kramdown:
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "纵死侠骨香，不惭世上英"
-sidebar-avatar: img/wechat.png      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: img/wechat.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
